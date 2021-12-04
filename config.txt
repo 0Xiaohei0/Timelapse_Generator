@@ -1,0 +1,4 @@
+[config]
+path=D:/video/drawing/test
+fileExtension=.mkv
+speed=10
