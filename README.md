@@ -6,4 +6,4 @@
 ### How to use
 1. Put the video files in an empty folder
 2. Change the configuration file
-3. Run the scirpt in an existing console window
+3. Run the scirpt in an existing console window (Config file needs to be in the same directory as the script)
