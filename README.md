@@ -1,6 +1,6 @@
 # Timelapse_Generator
 - Python script for converting video files into timelapse.
-- Speeds up all videos in the directory specified in the config file and concatenates them into a single videos.
+- Speeds up all videos in the directory specified in the config file and concatenates them into a single video.
 
 ![image](https://user-images.githubusercontent.com/24196833/144715514-ac28a389-c751-4437-86da-97f643e85660.png)
 ### How to use
